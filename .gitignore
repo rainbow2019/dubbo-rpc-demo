@@ -1,0 +1,49 @@
+HELP.md
+mercedes_app/target/
+mercedes_bean/target/
+mercedes_service/target/
+mercedes_controller/target/
+target
+logs/
+*.gz
+*.log
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
+
+### eclipse
+/.settings/
+/**/.DS_Store
+/.classpath
+/.project
+# /.mvn/
+/log/
+
+.idea/*.*
+.idea/workspace.xml
+
+*.class
